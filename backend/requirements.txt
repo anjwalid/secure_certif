@@ -1,0 +1,10 @@
+Flask
+qrcode
+Pillow
+hashlib
+requests
+subprocess
+base64
+cryptography
+zlib
+time
