@@ -107,7 +107,7 @@ secure_certifications_generated/
 
 ## 👥 Auteurs
 
-- Walid — [GitHub](https://github.com/anjwalid)
+- Walid anejjar — [GitHub](https://github.com/anjwalid)
 - Nizar Bahajoub - [GitHub](https://github.com/Nizar-Bahajoub)
 
 ---
