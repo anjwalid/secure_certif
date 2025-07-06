@@ -104,7 +104,23 @@ secure_certifications_generated/
 ```
 
 ---
+## 🎬 Démo du projet
 
+Voici une démonstration locale du projet montrant la génération et la validation d’un certificat :
+
+➡️ [📽️ Voir la vidéo explicative (demo.mp4)](Demo\generate_certification.mp4)
+
+[![Aperçu de l'interface](Demo/Home_page.png)] 
+
+### 🖼️ Autres aperçus de la plateforme
+
+| Génération d’une attestation | Vérification d’une attestation |
+|-----------------------------|-------------------------------|
+|  ![Vérification](Demo/Verification_certification.png) |
+
+| Page d’accueil | Résultat de vérification |
+|---------------|-------------------------|
+| ![Accueil](Demo/oth_interface.png) 
 ## 👥 Auteurs
 
 - Walid anejjar — [GitHub](https://github.com/anjwalid)
